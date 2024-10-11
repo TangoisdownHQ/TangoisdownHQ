@@ -2,6 +2,10 @@
 is a Security company focused on decoy systems, OSINT & Penetration Testing.
 - 👀 We are interested in Security, Privacy & Integrity of user data & devices.
 
+
+
+  - 👋 'ALL WARFARE IS BASED ON DECEPTION'
+
 Currently Offering these Services:
 - OSINT
 - PENETRATION TESTING
