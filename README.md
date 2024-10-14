@@ -4,7 +4,7 @@ is a Security company focused on decoy systems, OSINT & Penetration Testing.
 
 
 
-                                  'ALL WARFARE IS BASED ON DECEPTION'
+   'ALL WARFARE IS BASED ON DECEPTION'
 
 
 
