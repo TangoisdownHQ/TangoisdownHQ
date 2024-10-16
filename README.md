@@ -1,5 +1,5 @@
 - 👋 Tangoisdown
-is a Security company focused on decoy systems, OSINT & Penetration Testing.
+is a Security company focused on Decoy Technology. 
 - 👀 We are interested in Security, Privacy & Integrity of user data & devices.
 
 
