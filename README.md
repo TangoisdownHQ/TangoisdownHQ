@@ -10,8 +10,7 @@ is a Security company focused on decoy systems, OSINT & Penetration Testing.
 
 Currently Offering these Services:
 - OSINT
-- PENETRATION TESTING
-- VULNERABILITY ASSESSMENT / MONITORING & THREAT DETECTION
+- PENETRATION TESTING / VULNERABILITY ASSESSMENT 
 
 Email me!
 
