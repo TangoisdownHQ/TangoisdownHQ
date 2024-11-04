@@ -1,5 +1,5 @@
 - 👋 Tangoisdown
-is a Security company focused on Decoy Technology. 
+is a Cyber-Security company focused on Deception Technology. 
 - 👀 We are interested in Security, Privacy & Integrity of user data & devices.
 
 
