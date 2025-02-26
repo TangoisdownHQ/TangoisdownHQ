@@ -11,7 +11,8 @@ is a Cyber-Security company focused on Deception Technology.
 Currently Offering these Services:
 - OSINT
 - PENETRATION TESTING / VULNERABILITY ASSESSMENT 
-
+- WEB3, BLOCKCHAIN, SMART CONTRACT AUDIT & OFFENSE AUDIT
+  
 Email me!
 
 
