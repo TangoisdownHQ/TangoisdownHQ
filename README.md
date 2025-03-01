@@ -2,9 +2,19 @@
 is a Cyber-Security company focused on Deception Technology. 
 - 👀 We are interested in Security, Privacy & Integrity of user data & devices.
 
-  -'ALL WARFARE IS BASED ON DECEPTION'-
+          
+      ______     __     __     ______
+     /\  == \   /\ \   /\ \   /\  ___\
+     \ \  __<   \ \ \  \ \ \  \ \  __\
+      \ \_\ \_\  \ \_\  \ \_\  \ \_____\
+       \/_/ /_/   \/_/   \/_/   \/_____/
 
-  - - -  -  - --SUN TZU'--- - -- - - -  -
+T   54    A   41    N   4E    G   47    O   4F    I   49    S   53    D   
+44    O   4F    W   57    N   4E    -   2D
+R   52    E   45    C   43    O   4F    N   4E    -   2D
+D   44    O   4F    G   47
+
+		    BRAVE NEW WORLD . .  .  .
 
 
 Currently Offering these Services:
