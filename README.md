@@ -2,11 +2,8 @@
 is a Cyber-Security company focused on Deception Technology. 
 - 👀 We are interested in Security, Privacy & Integrity of user data & devices.
 
-
-
-   'ALL WARFARE IS BASED ON DECEPTION'
-
-              'SUN TZU'
+  -'ALL WARFARE IS BASED ON DECEPTION'-
+              -SUN TZU'-
 
 
 Currently Offering these Services:
