@@ -18,8 +18,9 @@ Currently Offering these Services:
 
 ---
 
-- Offering the use of our "[TANGOISDOWN RECONDOG AI]" 
-🐺 Tangoisdown — AI-Powered Honeypot Defense System
+Offering the use of our "[TANGOISDOWN RECONDOG AI]" 
+
+- 🐺 Tangoisdown — AI-Powered Honeypot Defense System
 
   
 Email me!
