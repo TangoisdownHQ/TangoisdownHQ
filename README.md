@@ -15,7 +15,12 @@ Currently Offering these Services:
 - OSINT
 - PENETRATION TESTING / VULNERABILITY ASSESSMENT 
 - WEB3, BLOCKCHAIN, SMART CONTRACT AUDIT & OFFENSE AUDIT
-- Offering the use of our "[TANGOISDOWN RECONDOG AI]" An AI powered decoy system.
+
+---
+
+- Offering the use of our "[TANGOISDOWN RECONDOG AI]" 
+🐺 Tangoisdown — AI-Powered Honeypot Defense System
+
   
 Email me!
 
