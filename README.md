@@ -5,12 +5,6 @@ is a Cyber-Security company focused on Deception Technology.
 
 
 
-
-
- 
-
-
-
 Currently Offering these Services:
 - OSINT
 - PENETRATION TESTING / VULNERABILITY ASSESSMENT 
@@ -20,7 +14,7 @@ Currently Offering these Services:
 
 Offering the use of our "[TANGOISDOWN RECONDOG AI]" 
 
-- 🐺 Tangoisdown — AI-Powered Honeypot Defense System
+- RD.AI — AI-Powered Honeypot Defense System
 
   
 Email me!
