@@ -6,10 +6,13 @@
 
 “Security is evolving from static defense to autonomous adaptation.”
 
+
 - +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 - 0x54 0x41 0x4E 0x47 0x4F 0x49 0x53 0x44 0x4F 0x57 0x4E
 - =======================================================
+
+
 
 # 👋 Hi, I’m TangoIsDown
 
@@ -24,7 +27,7 @@
 - 🕸️ Honeypot Developer & Threat Deception Engineer
 - 🔗 Tokenization & Smart Contract Security Specialist
 - ✈️ Passionate about Aerospace, Drone Security & Deep Space Cybersecurity
-- ⚡  Building cloud. autonomous security tooling & multi-agent systems
+- ⚡  Building cloud, autonomous security tooling & multi-agent systems
 
 ---
 
@@ -112,6 +115,3 @@ from cloud infrastructure and AI agents to blockchain ecosystems and aerospace n
 -
 
 ------------------------------------------------------------>
-
-
-this is my profile please update it with AI work or Agentic systems
