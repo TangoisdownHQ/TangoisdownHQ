@@ -24,7 +24,7 @@
 - 🕸️ Honeypot Developer & Threat Deception Engineer
 - 🔗 Tokenization & Smart Contract Security Specialist
 - ✈️ Passionate about Aerospace, Drone Security & Deep Space Cybersecurity
-- ⚡ Building cloud. autonomous security tooling & multi-agent systems
+- ⚡  Building cloud. autonomous security tooling & multi-agent systems
 
 ---
 
