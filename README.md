@@ -2,7 +2,7 @@
 - Hello,
 
 🔐 Welcome to the Tangoisdown Page - - - - - - - -
-📡 Stay Stealthy, stay Secure. Stay Adaptive
+📡 Stay Stealthy, Stay Adaptive, Stay Secure. 
 
 “Security is evolving from static defense to autonomous adaptation.”
 
