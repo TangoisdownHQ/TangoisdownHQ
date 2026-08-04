@@ -14,7 +14,7 @@
 
 
 
-# 👋 Hi, I’m TangoIsDown
+# 👋 Hi, what i do? ..
 
 ### 🛡️ Offensive Security | Web3 Security | Aerospace & Deep Space Tech Enthusiast
 
@@ -33,15 +33,15 @@
 
 ### 🛡️ What I Do
 
-- ✅ Web application & API pentesting
+- ✅ Web application, Active Directory & API pentesting
 - ✅ Smart contract audits (Solidity / EVM)
 - ✅ AI/LLM security & adversarial testing
 - ✅ Agentic security systems & autonomous workflows
 - ✅ Web3 dApp & blockchain vulnerability research
 - ✅ Secure AI orchestration & multi-agent infrastructure
 - ✅ Honeypot & deception engineering
-- ✅ Cloud, Kubernetes & infrastructure security & engineering 
-- ✅ Drone, satellite & aerospace security research & Engineering
+- ✅ Cloud, Kubernetes & infrastructure security testing & engineering 
+- ✅ Drone, satellite & aerospace security testing, research & Engineering
 
 ---
 
@@ -79,6 +79,7 @@
 - Foundry
 - Smart Contract Auditing
 - OSINT
+- Penetration Tests & Red Teaming
 - Threat Hunting
 ---
 ### 🕸️ Deception & Detection
