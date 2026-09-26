@@ -33,7 +33,7 @@
 
 ### 🛡️ What I Do
 
-- ✅ Web application,Mobile, Active Directory & API pentesting
+- ✅ Web application, Mobile, Active Directory & API pentesting
 - ✅ Smart contract audits (Solidity / EVM)
 - ✅ AI/LLM security & adversarial testing
 - ✅ Agentic security systems & autonomous workflows
